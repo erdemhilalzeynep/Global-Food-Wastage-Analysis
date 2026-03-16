@@ -1,6 +1,5 @@
-# Ödev Grubu: Hilal Zeynep Erdem, Simge Elmas, Canannur Taze
-# Global Food Wastage Analysis (2018-2024) 🌍
-
+# Project Group: Hilal Zeynep Erdem, Simge Elmas, Canannur Taze
+# Economic Impact Analysis of Global Food Wastage 🌍
 ### Project Objective
 This project analyzes global food waste trends to support **SDG 12.3**. We aim to identify the correlation between population, economic loss, and food categories to suggest AI-driven reduction strategies.
 
